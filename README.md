@@ -12,4 +12,4 @@
  ## Contribution
  Made with Love by Angela Loftus
 
-### &copy 2019 Run Buddy, Inc
+### (c) 2019 Run Buddy, Inc
