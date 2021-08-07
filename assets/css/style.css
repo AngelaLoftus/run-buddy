@@ -155,9 +155,7 @@ section {
 
 /*center all of the intro*/
 
-.intro {
-    text-align:center;
-}
+
 
 
 
@@ -167,12 +165,12 @@ section {
     width:80%;
     font-size: 20px;
     margin: 0 auto;
+    text-align: center;
 }
 
 /*step 2 the what you do styles*/
 
 .steps {
-    text-align:center;
     background: #fce138;
 }
 
@@ -181,10 +179,11 @@ section {
 .section-title {
     font-size: 55px;
     color: #024e76;
-    margin-bottom: 35px;
-    padding: 0 100px 20px 100px;
-    display: inline-block;
     border-bottom: 3px solid;
+    padding-bottom: 20px;
+    text-align: center;
+    margin: 0 auto 35 px auto;
+    width: 50%;
 }
 
 .primary-border{
@@ -220,7 +219,7 @@ margin-top: 10px
 }
 
 .trainers {
-    text-align: center;
+    
 }
 
 .trainer {
@@ -250,6 +249,11 @@ margin-top: 10px
     text-align:right;
 }
 
+.flex-row {
+    display: flex;
+}
+
+
 .trainer-bio h3 {
     font-size: 32px;
     margin-bottom: 8px;
@@ -271,7 +275,6 @@ margin-top: 10px
 /*reach out styles start */
 
 .contact {
-    text-align: center;
     background: #024e76;
 }
 
