@@ -205,8 +205,6 @@ section {
     justify-content: space-between;
 } 
 
- 
-
 .step h3 {
     color: #024e76;
 font-size: 46px;
@@ -216,6 +214,22 @@ flex: 1 30%;
 
 .step-info {
     flex: 2 70%;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.step-img {
+    flex: 1 12%;
+    margin-right: 20px
+}
+
+.step-img img {
+    max-width: 100%
+}
+
+.step-text {
+    flex: 12;
 }
 
 .step-text p {
@@ -229,7 +243,9 @@ flex: 1 30%;
     color: #024e76;
 }
 
- 
+/*What you Do styles end here */
+
+/*Meet the Trainer styles start here*/
 
 .trainer {
     width: 900px;
