@@ -158,7 +158,9 @@ section {
 
 /*center all of the intro*/
 
-
+.intro {
+    text-align: center;
+}
 
 
 
