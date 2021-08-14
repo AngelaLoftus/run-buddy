@@ -14,5 +14,5 @@ https://angelaloftus.github.io/run-buddy/
 
 ### (c) 2019 Run Buddy, Inc
 
-![testimage](/assets/images/hero-bg.jpeg)
+![testimage](https://github.com/AngelaLoftus/run-buddy/blob/main/assets/images/hero-bg.jpg)
  
