@@ -7,8 +7,8 @@
  * HTML
  * CSS
  ## Website
- https://lernantino.github.io/run-buddy
- 
+https://angelaloftus.github.io/run-buddy/ 
+
  ## Contribution
  Made with Love by Angela Loftus
 
